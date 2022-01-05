@@ -1,0 +1,20 @@
+<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg">
+
+ <title/>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <polygon fill="#36bac9" id="svg_1" points="30 30 2 30 6 20 26 20 30 30" class="cls-1"/>
+  <path fill="#36bac9" id="svg_2" d="m30,31l-28,0a1,1 0 0 1 -0.93,-1.370001l4,-10a1,1 0 0 1 0.93,-0.629999l20,0a1,1 0 0 1 0.93,0.629999l4,10a1,1 0 0 1 -0.93,1.370001zm-26.52,-2l25,0l-3.199999,-8l-18.600001,0l-3.2,8z" class="cls-2"/>
+  <polygon fill="#ff5454" id="svg_3" points="25 30 7 30 9.57 20 22.43 20 25 30" class="cls-3"/>
+  <path fill="#36bac9" id="svg_4" d="m25,31l-18,0a1,1 0 0 1 -1,-1.25l2.57,-10a1,1 0 0 1 1,-0.75l12.860001,0a1,1 0 0 1 1,0.75l2.57,10a1,1 0 0 1 -1,1.25zm-16.71,-2l15.419999,0l-2.059999,-8l-11.299999,0l-2.06,8z" class="cls-2"/>
+  <path fill="#eef5fd" id="svg_5" d="m25.053547,11c0,5 -9,15 -9,15s-9,-10 -9,-15a9,9 0 0 1 18,0z" class="cls-4"/>
+  <path fill="#62a4d1" id="svg_6" d="m16,27a1,1 0 0 1 -0.74,-0.33c-0.95,-1.059999 -9.26,-10.469999 -9.26,-15.67a10,10 0 0 1 20,0c0,5.200001 -8.309999,14.610001 -9.26,15.67a1,1 0 0 1 -0.74,0.33zm0,-24a8,8 0 0 0 -8,8c0,3.42 5.23,10.24 8,13.48c2.77,-3.24 8,-10.059999 8,-13.48a8,8 0 0 0 -8,-8z" class="cls-2"/>
+  <text transform="matrix(1 0 0 1.17067 0 2.02141)" stroke="null" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_9" y="10.239472" x="13.510047" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000"/>
+  <text stroke="null" transform="matrix(0.93465 0 0 1.29884 -2.58046 2.35368)" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="7" id="svg_10" y="9.329167" x="14.4739" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000"/>
+  <text font-style="normal" font-weight="bold" transform="matrix(3.75895 0 0 3.65138 -52.7216 0.274057)" stroke="#000000" xml:space="preserve" text-anchor="start" font-family="Oswald, sans-serif" font-size="7" id="svg_11" y="4.796953" x="16.162869" stroke-opacity="0" stroke-width="0" fill="#ff5454">+</text>
+ </g>
+</svg>
